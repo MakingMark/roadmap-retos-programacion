@@ -1,0 +1,19 @@
+# https://www.python.org
+""" Comentario multilineas
+1.
+2.
+3.
+"""
+#Variables & constantes
+variable = 5
+MY_CONSTANTE = "esto es una constante"
+
+#Tipos de datos
+strings = "Cadena de texto"
+integers = 10
+float = 1.345
+booleans = True
+none = None
+
+#Primer print
+print("Hola mundo, esto es Python :D")
